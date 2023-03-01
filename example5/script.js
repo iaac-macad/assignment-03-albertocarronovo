@@ -5,7 +5,7 @@ import { Rhino3dmLoader } from 'three/addons/loaders/3DMLoader.js'
 import rhino3dm from 'rhino3dm'
 import { RhinoCompute } from 'rhinocompute'
 
-const definitionName = "rnd_node_color.gh";
+const definitionName = "sun_paths_initial.gh";
 
 // Set up sliders
 const radius_slider = document.getElementById("radius");

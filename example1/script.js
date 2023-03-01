@@ -22,7 +22,7 @@ booleanButton.onclick = compute
 downloadButton.onclick = download
 
 // create a default material
-const material = new THREE.MeshNormalMaterial({ wireframe: true })
+const material = new THREE.MeshNormalMaterial({wireframe: true})
 
 // declare variables to hold rhino library and rhino doc
 let rhino, doc
